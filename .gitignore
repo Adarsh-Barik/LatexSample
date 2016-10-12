@@ -1,0 +1,10 @@
+# exclude everythign except tex, bib, pdf, image
+*.aux
+*.blg
+*.out
+*.gz
+*.bbl
+*.log
+*.nav
+*.snm
+*.toc
