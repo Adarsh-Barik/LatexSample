@@ -1,2 +1,2 @@
-### Sample text files for latex presentations and reports
+### Sample tex files for latex presentations and reports
 
